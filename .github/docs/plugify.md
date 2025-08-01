@@ -1,8 +1,8 @@
 # plugify 
 
-Last updated: July 31, 2025 at 11:09:57 PM UTC
+Last updated: August 1, 2025 at 10:42:03 PM UTC
 
-* Manifests: [1596805715767004602](https://steamdb.info/depot/2347771/history/?changeid=M:1596805715767004602), [823018231329161335](https://steamdb.info/depot/2347773/history/?changeid=M:823018231329161335)
+* Manifests: [8654541613307577757](https://steamdb.info/depot/2347771/history/?changeid=M:8654541613307577757), [7997552756635206048](https://steamdb.info/depot/2347773/history/?changeid=M:7997552756635206048)
 * Repository: https://github.com/untrustedmodders/plugify-source-2
 * Gamedata: https://github.com/untrustedmodders/plugify-source-2/blob/main/assets/gamedata.jsonc
 
@@ -410,7 +410,7 @@ Last updated: July 31, 2025 at 11:09:57 PM UTC
 <pre>
 48 89 5C 24 ? 48 89 74 24 ? 48 89 7C 24 ? 4C 89 74 24 ? 55 48 8D 6C 24 ? 48 81 EC ? ? ? ? 45 33 F6 48 C7 45
 </pre>
-</td></tr><tr><td>✅</td><td>Linux</td><td>server</td><td>
+</td></tr><tr><td>❌</td><td>Linux</td><td>server</td><td>
 <pre>
 \x55\x48\x89\xE5\x41\x57\x41\x56\x41\x55\x41\x54\x49\x89\xD4\x53\x48\x89\xF3\x48\x83\xEC\x18\x4D\x85\xC0\x0F\x95\xC2\x48\x85\xF6\x40\x0F\x94\xC6\x40\x08\xF2\x75\x2A\x83\xF9\x01\x75\x2A\x49\x89\xFE\x40\xF6\xC7\x01\x75\x2A\x41\x0F\xB6\x54\x24\x08\x80\xFA\x1E\x0F\x84\x2A\x2A\x2A\x2A\x80\xFA\x02\x74\x2A\x80\xFA\x4F\x75\x2A\x49\x8B\x34\x24\x48\x8D\x05\xFF\xB0\xBD\xFF
 </pre>

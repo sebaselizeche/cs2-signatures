@@ -1,8 +1,8 @@
 # cs2kz-metamod 
 
-Last updated: July 31, 2025 at 11:09:57 PM UTC
+Last updated: August 1, 2025 at 10:42:03 PM UTC
 
-* Manifests: [1596805715767004602](https://steamdb.info/depot/2347771/history/?changeid=M:1596805715767004602), [823018231329161335](https://steamdb.info/depot/2347773/history/?changeid=M:823018231329161335)
+* Manifests: [8654541613307577757](https://steamdb.info/depot/2347771/history/?changeid=M:8654541613307577757), [7997552756635206048](https://steamdb.info/depot/2347773/history/?changeid=M:7997552756635206048)
 * Repository: https://github.com/KZGlobalTeam/cs2kz-metamod
 * Gamedata: https://github.com/KZGlobalTeam/cs2kz-metamod/blob/dev/gamedata/cs2kz-core.games.txt
 
@@ -544,7 +544,7 @@ Last updated: July 31, 2025 at 11:09:57 PM UTC
 <pre>
 48 89 5C 24 10 56 48 83 EC 40 48 8B F2
 </pre>
-</td></tr><tr><td>✅</td><td>Linux</td><td>server</td><td>
+</td></tr><tr><td>❌</td><td>Linux</td><td>server</td><td>
 <pre>
 \x55\x48\x89\xE5\x41\x56\x41\x55\x41\x54\x49\x89\xF4\xBE\x2A\x2A\x2A\x2A\x53\x48\x89\xFB\x48\x83\xEC\x2A\xE8
 </pre>
