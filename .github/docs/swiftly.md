@@ -1,6 +1,6 @@
 # swiftly 
 
-Last updated: August 15, 2025 at 6:21:58 PM UTC
+Last updated: August 15, 2025 at 8:46:16 PM UTC
 
 * Manifests: [5480869389366142383](https://steamdb.info/depot/2347771/history/?changeid=M:5480869389366142383), [2365737784967523922](https://steamdb.info/depot/2347773/history/?changeid=M:2365737784967523922)
 * Repository: https://github.com/swiftly-solution/swiftly
@@ -271,13 +271,13 @@ Last updated: August 15, 2025 at 6:21:58 PM UTC
 <pre>
 40 53 48 83 EC 60 48 C7 41 38 FF FF FF FF
 </pre>
-</td></tr><tr><td>❌</td><td>Linux</td><td>server</td><td>
+</td></tr><tr><td>✅</td><td>Linux</td><td>server</td><td>
 <pre>
-\x55\x48\x89\xE5\x48\x83\xEC\x10\x4C\x8D\x15\x2A\x2A\x2A\x2A
+\x49\xBB\x2A\x2A\x2A\x2A\x2A\x2A\x2A\x2A\x55\x66\x0F\xEF\xC9\x48\x89\xE5
 </pre>
 </td><td>
 <pre>
-55 48 89 E5 48 83 EC 10 4C 8D 15 ? ? ? ?
+49 BB ? ? ? ? ? ? ? ? 55 66 0F EF C9 48 89 E5
 </pre>
 </td></tr></table>
 
@@ -410,21 +410,21 @@ Last updated: August 15, 2025 at 6:21:58 PM UTC
 ### CBaseEntity_TakeDamage
 
 <table>
-<tr><th>Status</th><th>Platform</th><th>Library</th><th>CODE-Style</th><th>IDA-Style</th></tr><tr><td>❌</td><td>Windows</td><td>server</td><td>
+<tr><th>Status</th><th>Platform</th><th>Library</th><th>CODE-Style</th><th>IDA-Style</th></tr><tr><td>✅</td><td>Windows</td><td>server</td><td>
 <pre>
-\x48\x89\x74\x24\x2A\x57\x48\x81\xEC\x2A\x2A\x2A\x2A\x48\x8B\x41\x2A\x48\x8B\xFA
+\x4C\x8B\xDC\x56\x57\x48\x81\xEC\x2A\x2A\x2A\x2A\x48\x8B\x41
 </pre>
 </td><td>
 <pre>
-48 89 74 24 ? 57 48 81 EC ? ? ? ? 48 8B 41 ? 48 8B FA
+4C 8B DC 56 57 48 81 EC ? ? ? ? 48 8B 41
 </pre>
-</td></tr><tr><td>❌</td><td>Linux</td><td>server</td><td>
+</td></tr><tr><td>✅</td><td>Linux</td><td>server</td><td>
 <pre>
-\x55\x48\x89\xE5\x41\x57\x49\x89\xF7\x41\x56\x41\x55\x41\x54\x53\x48\x89\xFB\x48\x81\xEC\x2A\x2A\x2A\x2A\xF6\x46
+\x55\x48\x89\xE5\x41\x57\x41\x56\x41\x55\x41\x54\x53\x48\x89\xFB\x48\x81\xEC\x2A\x2A\x2A\x2A\x4C\x8D\x25\x2A\x2A\x2A\x2A\x49\x8B\x3C\x24
 </pre>
 </td><td>
 <pre>
-55 48 89 E5 41 57 49 89 F7 41 56 41 55 41 54 53 48 89 FB 48 81 EC ? ? ? ? F6 46
+55 48 89 E5 41 57 41 56 41 55 41 54 53 48 89 FB 48 81 EC ? ? ? ? 4C 8D 25 ? ? ? ? 49 8B 3C 24
 </pre>
 </td></tr></table>
 
