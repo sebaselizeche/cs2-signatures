@@ -1,6 +1,6 @@
 # cs2-match-plugin 
 
-Last updated: August 15, 2025 at 2:56:53 AM UTC
+Last updated: August 15, 2025 at 4:49:32 AM UTC
 
 * Manifests: [5480869389366142383](https://steamdb.info/depot/2347771/history/?changeid=M:5480869389366142383), [2365737784967523922](https://steamdb.info/depot/2347773/history/?changeid=M:2365737784967523922)
 * Repository: https://github.com/ianlucas/cs2-match-plugin
