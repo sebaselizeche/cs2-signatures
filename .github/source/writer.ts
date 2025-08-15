@@ -72,7 +72,7 @@ export class Writer {
             text += `<tr><td>${foundAll.linux ? "✅" : "❌"}</td>`;
             text += `<td>${foundAll.windows ? "✅" : "❌"}</td>`;
             text += `<td><a href="https://github.com/${source.repo}">${source.id}</a></td>`;
-            text += `<td><a href="https://github.com/ianlucas/cs2-signatures/blob/main/.github/docs/${source.id}.md">View signatures →</a></td></tr>`;
+            text += `<td><a href="https://github.com/sebaselizeche/cs2-signatures/blob/main/.github/docs/${source.id}.md">View signatures →</a></td></tr>`;
         }
         text += `</table>\n\n`;
         text += brokenSubroutinesDetails.join("\n\n");
