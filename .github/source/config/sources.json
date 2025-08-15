@@ -1,7 +1,7 @@
 [
     {
         "id": "CounterStrikeSharp",
-        "repo": "roflmuffin/CounterStrikeSharp",
+        "repo": "sebaselizeche/CounterStrikeSharp",
         "framework": "counterstrikesharp",
         "branch": "main",
         "filepath": "/configs/addons/counterstrikesharp/gamedata/gamedata.json"
