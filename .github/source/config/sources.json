@@ -7,6 +7,13 @@
         "filepath": "/configs/addons/counterstrikesharp/gamedata/gamedata.json"
     },
     {
+        "id": "WeaponPaints",
+        "repo": "Nereziel/cs2-WeaponPaints",
+        "framework": "counterstrikesharp",
+        "branch": "main",
+        "filepath": "/gamedata/weaponpaints.json"
+    },
+    {
         "id": "CS2Fixes",
         "repo": "Source2ZE/CS2Fixes",
         "framework": "sourcemod",
