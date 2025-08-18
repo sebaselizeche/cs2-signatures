@@ -1,6 +1,6 @@
 # swiftly 
 
-Last updated: August 18, 2025 at 11:08:18 PM UTC
+Last updated: August 18, 2025 at 11:29:33 PM UTC
 
 * Manifests: [56349276781892208](https://steamdb.info/depot/2347771/history/?changeid=M:56349276781892208), [8435050606759549297](https://steamdb.info/depot/2347773/history/?changeid=M:8435050606759549297)
 * Repository: https://github.com/swiftly-solution/swiftly
@@ -305,21 +305,21 @@ Last updated: August 18, 2025 at 11:08:18 PM UTC
 ### CBasePlayerController_SetPawn
 
 <table>
-<tr><th>Status</th><th>Platform</th><th>Library</th><th>CODE-Style</th><th>IDA-Style</th></tr><tr><td>❌</td><td>Windows</td><td>server</td><td>
+<tr><th>Status</th><th>Platform</th><th>Library</th><th>CODE-Style</th><th>IDA-Style</th></tr><tr><td>✅</td><td>Windows</td><td>server</td><td>
 <pre>
-\x48\x89\x5C\x24\x2A\x57\x41\x54\x41\x55\x41\x56\x41\x57\x48\x83\xEC\x2A\x4C\x8B\x15
+\x44\x88\x4C\x24\x2A\x53\x57
 </pre>
 </td><td>
 <pre>
-48 89 5C 24 ? 57 41 54 41 55 41 56 41 57 48 83 EC ? 4C 8B 15
+44 88 4C 24 ? 53 57
 </pre>
-</td></tr><tr><td>❌</td><td>Linux</td><td>server</td><td>
+</td></tr><tr><td>✅</td><td>Linux</td><td>server</td><td>
 <pre>
-\x55\x48\x8D\x87\x2A\x2A\x2A\x2A\x48\x89\xE5\x41\x57\x45\x89\xC7
+\x55\x48\x8D\x87\x2A\x2A\x2A\x2A\x48\x89\xE5\x41\x57\x41\x56\x41\x89\xCE\x41\x55\x45\x89\xCD
 </pre>
 </td><td>
 <pre>
-55 48 8D 87 ? ? ? ? 48 89 E5 41 57 45 89 C7
+55 48 8D 87 ? ? ? ? 48 89 E5 41 57 41 56 41 89 CE 41 55 45 89 CD
 </pre>
 </td></tr></table>
 
