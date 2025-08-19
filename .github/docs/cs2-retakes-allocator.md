@@ -1,6 +1,6 @@
 # cs2-retakes-allocator 
 
-Last updated: August 19, 2025 at 10:43:14 AM UTC
+Last updated: August 19, 2025 at 10:55:53 AM UTC
 
 * Manifests: [56349276781892208](https://steamdb.info/depot/2347771/history/?changeid=M:56349276781892208), [8435050606759549297](https://steamdb.info/depot/2347773/history/?changeid=M:8435050606759549297)
 * Repository: https://github.com/yonilerner/cs2-retakes-allocator
