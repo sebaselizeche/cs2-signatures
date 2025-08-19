@@ -1,6 +1,6 @@
 # CS2 Server Signatures Tracker
 
-* **Last updated:** August 19, 2025 at 7:49:19 PM UTC
+* **Last updated:** August 19, 2025 at 8:11:39 PM UTC
 * **Manifests:** [4663115719866989359](https://steamdb.info/depot/2347771/history/?changeid=M:4663115719866989359), [5102044353278503702](https://steamdb.info/depot/2347773/history/?changeid=M:5102044353278503702)
 
 <table>
